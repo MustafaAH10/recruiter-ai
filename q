@@ -1,0 +1,35 @@
+[33mcommit 8ddc4ac2909fcc70d92c14a62422695620c4388f[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: MustafaAH10 <mustafahussain793@gmail.com>
+Date:   Thu Jun 13 14:40:46 2024 +0800
+
+    Improve state management and persist to storage
+
+[33mcommit ad41ae567f1a4b16ee17c5d47647900870aedfe0[m
+Author: MustafaAH10 <mustafahussain793@gmail.com>
+Date:   Thu Jun 13 12:27:51 2024 +0800
+
+    Update to newer UI, functional ranking, multiple uploads, gpt3.5, json parsing
+
+[33mcommit 96032b83899e2b1643f7d47bec00ee24691c741a[m
+Author: MustafaAH10 <mustafahussain793@gmail.com>
+Date:   Thu Jun 13 12:25:37 2024 +0800
+
+    Remove API key from config
+
+[33mcommit 4ad3e3e907537bd7bdc1aebd0412c14b4ddceab5[m
+Author: MustafaAH10 <mustafahussain793@gmail.com>
+Date:   Thu Jun 13 01:10:30 2024 +0800
+
+    Update to use Assistants API replacing Generation
+
+[33mcommit d117fd547f9824052edc7ff2c13051cbd94a241b[m
+Author: MustafaAH10 <mustafahussain793@gmail.com>
+Date:   Wed Jun 12 23:45:43 2024 +0800
+
+    Baseline GUI
+
+[33mcommit 6cfeeeaf2fc981e173bd8502dd3ecacbe3396bb9[m
+Author: Mustafa Anis Hussain <56750694+MustafaAH10@users.noreply.github.com>
+Date:   Wed Jun 12 22:24:26 2024 +0800
+
+    Initial commit
